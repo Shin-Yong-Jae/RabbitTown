@@ -1,0 +1,107 @@
+{
+    "m_SelectedDeviceId": "127.0.0.1:5555",
+    "m_SelectedPackage": {
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "127.0.0.1:5555",
+            "name": "com.DefaultCompany.YoLo_RabbitTown",
+            "processId": 5088,
+            "exited": true
+        },
+        {
+            "deviceId": "127.0.0.1:5555",
+            "name": "com.google.android.gms.ui",
+            "processId": 6566,
+            "exited": true
+        },
+        {
+            "deviceId": "127.0.0.1:5555",
+            "name": "com.DefaultCompany.YoLo_RabbitTown",
+            "processId": 8332,
+            "exited": true
+        },
+        {
+            "deviceId": "127.0.0.1:5555",
+            "name": "com.google.android.gms.ui",
+            "processId": 7911,
+            "exited": true
+        },
+        {
+            "deviceId": "127.0.0.1:5555",
+            "name": "com.DefaultCompany.YoLo_RabbitTown",
+            "processId": 8697,
+            "exited": true
+        },
+        {
+            "deviceId": "127.0.0.1:5555",
+            "name": "com.google.android.gms.ui",
+            "processId": 9640,
+            "exited": false
+        },
+        {
+            "deviceId": "127.0.0.1:5555",
+            "name": "com.DefaultCompany.YoLo_RabbitTown",
+            "processId": 9425,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": true,
+    "m_SymbolPaths": []
+}

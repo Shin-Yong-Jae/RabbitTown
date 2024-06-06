@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy1
+  - Enemy2
+  - Obstacle
+  - Enemy
+  - Team
+  - IsDeadEnemy
+  - GoPoolEnemy
+  - Portal1
+  - Portal2
+  - GoMain
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Field
+  - Enemy
+  - Ally
+  - Neutrality
+  - Section1
+  - Section2
+  - Section3
+  - Minimap
+  - SectionStarting
+  - Section
+  - 
+  - 
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

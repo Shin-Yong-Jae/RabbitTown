@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccad2fd5b4e9c421ba62c67602b90792, type: 3}
+  m_Name: Cow3
+  m_EditorClassIdentifier: 
+  UnitPrefab: {fileID: 1000011551299606, guid: 270cadb32e65e79409ac7eeeccceb980, type: 3}
+  Projecttile: {fileID: 0}
+  Level:
+  - Name: Cow3
+    meadowUnit: 14
+    Attack: 15
+    AttackSpeed: 2
+    MovingSpeed: 5
+    Hp: 350
+    Level: 1
+    range: 3
+    DropCoin: 40
+    Spoilnumber: 2
+    SpoilAmount: 4
+    CanCapturePercent: 50
+    DetectionRange: 12
+    PlayerRange: 5
+    PlayerRangeWellOff: 15
+  - Name: Cow3
+    meadowUnit: 14
+    Attack: 15
+    AttackSpeed: 2
+    MovingSpeed: 5
+    Hp: 400
+    Level: 2
+    range: 3
+    DropCoin: 40
+    Spoilnumber: 2
+    SpoilAmount: 4
+    CanCapturePercent: 50
+    DetectionRange: 12
+    PlayerRange: 5
+    PlayerRangeWellOff: 15
+  - Name: Cow3
+    meadowUnit: 14
+    Attack: 15
+    AttackSpeed: 2
+    MovingSpeed: 5
+    Hp: 450
+    Level: 3
+    range: 3
+    DropCoin: 40
+    Spoilnumber: 2
+    SpoilAmount: 4
+    CanCapturePercent: 50
+    DetectionRange: 12
+    PlayerRange: 5
+    PlayerRangeWellOff: 15
+  - Name: Cow3
+    meadowUnit: 14
+    Attack: 15
+    AttackSpeed: 2
+    MovingSpeed: 5
+    Hp: 500
+    Level: 4
+    range: 3
+    DropCoin: 40
+    Spoilnumber: 2
+    SpoilAmount: 4
+    CanCapturePercent: 50
+    DetectionRange: 12
+    PlayerRange: 5
+    PlayerRangeWellOff: 15
+  - Name: Cow3
+    meadowUnit: 14
+    Attack: 15
+    AttackSpeed: 2
+    MovingSpeed: 5
+    Hp: 600
+    Level: 5
+    range: 3
+    DropCoin: 40
+    Spoilnumber: 2
+    SpoilAmount: 4
+    CanCapturePercent: 50
+    DetectionRange: 12
+    PlayerRange: 5
+    PlayerRangeWellOff: 15

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccad2fd5b4e9c421ba62c67602b90792, type: 3}
+  m_Name: Boss1
+  m_EditorClassIdentifier: 
+  UnitPrefab: {fileID: 0}
+  Projecttile: {fileID: 0}
+  Level:
+  - Name: Boss1
+    meadowUnit: 0
+    Attack: 100
+    AttackSpeed: 1
+    MovingSpeed: 3
+    Hp: 1000
+    Level: 1
+    range: 10
+    DropCoin: 300
+    Spoilnumber: 2
+    SpoilAmount: 20
+    CanCapturePercent: 0
+    DetectionRange: 10
+    PlayerRange: 10
+    PlayerRangeWellOff: 15

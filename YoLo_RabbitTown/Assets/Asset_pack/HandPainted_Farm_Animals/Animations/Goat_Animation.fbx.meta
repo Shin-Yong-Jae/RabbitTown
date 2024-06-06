@@ -1,0 +1,1120 @@
+fileFormatVersion: 2
+guid: 5b55025e35bbae24d8f4c16afb042918
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: BackFoot_L
+  - first:
+      1: 100002
+    second: BackFoot_R
+  - first:
+      1: 100004
+    second: BackFootIK_L
+  - first:
+      1: 100006
+    second: BackFootIK_R
+  - first:
+      1: 100008
+    second: BackLowerLeg_L
+  - first:
+      1: 100010
+    second: BackLowerLeg_R
+  - first:
+      1: 100012
+    second: BackUpperLeg_L
+  - first:
+      1: 100014
+    second: BackUpperLeg_R
+  - first:
+      1: 100016
+    second: Ear_L
+  - first:
+      1: 100018
+    second: Ear_R
+  - first:
+      1: 100020
+    second: FrontFoot_L
+  - first:
+      1: 100022
+    second: FrontFoot_R
+  - first:
+      1: 100024
+    second: FrontFootIK_L
+  - first:
+      1: 100026
+    second: FrontFootIK_R
+  - first:
+      1: 100028
+    second: FrontLowerLeg_L
+  - first:
+      1: 100030
+    second: FrontLowerLeg_R
+  - first:
+      1: 100032
+    second: FrontUpperLeg_L
+  - first:
+      1: 100034
+    second: FrontUpperLeg_R
+  - first:
+      1: 100036
+    second: //RootNode
+  - first:
+      1: 100038
+    second: Goat
+  - first:
+      1: 100040
+    second: GoatArmature
+  - first:
+      1: 100042
+    second: Head
+  - first:
+      1: 100044
+    second: Pole_L
+  - first:
+      1: 100046
+    second: Pole_R
+  - first:
+      1: 100048
+    second: PoleBack_L
+  - first:
+      1: 100050
+    second: PoleBack_R
+  - first:
+      1: 100052
+    second: Root
+  - first:
+      1: 100054
+    second: Spine
+  - first:
+      1: 100056
+    second: Tail
+  - first:
+      1: 100058
+    second: Torso
+  - first:
+      1: 100060
+    second: BackFoot_L_end
+  - first:
+      1: 100062
+    second: BackFoot_R_end
+  - first:
+      1: 100064
+    second: BackFootIK_L_end
+  - first:
+      1: 100066
+    second: BackFootIK_R_end
+  - first:
+      1: 100068
+    second: Ear_L_end
+  - first:
+      1: 100070
+    second: Ear_R_end
+  - first:
+      1: 100072
+    second: FrontFoot_L_end
+  - first:
+      1: 100074
+    second: FrontFoot_R_end
+  - first:
+      1: 100076
+    second: FrontFootIK_L_end
+  - first:
+      1: 100078
+    second: FrontFootIK_R_end
+  - first:
+      1: 100080
+    second: Pole_L_end
+  - first:
+      1: 100082
+    second: Pole_R_end
+  - first:
+      1: 100084
+    second: PoleBack_L_end
+  - first:
+      1: 100086
+    second: PoleBack_R_end
+  - first:
+      1: 100088
+    second: Tail_end
+  - first:
+      4: 400000
+    second: BackFoot_L
+  - first:
+      4: 400002
+    second: BackFoot_R
+  - first:
+      4: 400004
+    second: BackFootIK_L
+  - first:
+      4: 400006
+    second: BackFootIK_R
+  - first:
+      4: 400008
+    second: BackLowerLeg_L
+  - first:
+      4: 400010
+    second: BackLowerLeg_R
+  - first:
+      4: 400012
+    second: BackUpperLeg_L
+  - first:
+      4: 400014
+    second: BackUpperLeg_R
+  - first:
+      4: 400016
+    second: Ear_L
+  - first:
+      4: 400018
+    second: Ear_R
+  - first:
+      4: 400020
+    second: FrontFoot_L
+  - first:
+      4: 400022
+    second: FrontFoot_R
+  - first:
+      4: 400024
+    second: FrontFootIK_L
+  - first:
+      4: 400026
+    second: FrontFootIK_R
+  - first:
+      4: 400028
+    second: FrontLowerLeg_L
+  - first:
+      4: 400030
+    second: FrontLowerLeg_R
+  - first:
+      4: 400032
+    second: FrontUpperLeg_L
+  - first:
+      4: 400034
+    second: FrontUpperLeg_R
+  - first:
+      4: 400036
+    second: Goat
+  - first:
+      4: 400038
+    second: //RootNode
+  - first:
+      4: 400040
+    second: GoatArmature
+  - first:
+      4: 400042
+    second: Head
+  - first:
+      4: 400044
+    second: Pole_L
+  - first:
+      4: 400046
+    second: Pole_R
+  - first:
+      4: 400048
+    second: PoleBack_L
+  - first:
+      4: 400050
+    second: PoleBack_R
+  - first:
+      4: 400052
+    second: Root
+  - first:
+      4: 400054
+    second: Spine
+  - first:
+      4: 400056
+    second: Tail
+  - first:
+      4: 400058
+    second: Torso
+  - first:
+      4: 400060
+    second: BackFoot_L_end
+  - first:
+      4: 400062
+    second: BackFoot_R_end
+  - first:
+      4: 400064
+    second: BackFootIK_L_end
+  - first:
+      4: 400066
+    second: BackFootIK_R_end
+  - first:
+      4: 400068
+    second: Ear_L_end
+  - first:
+      4: 400070
+    second: Ear_R_end
+  - first:
+      4: 400072
+    second: FrontFoot_L_end
+  - first:
+      4: 400074
+    second: FrontFoot_R_end
+  - first:
+      4: 400076
+    second: FrontFootIK_L_end
+  - first:
+      4: 400078
+    second: FrontFootIK_R_end
+  - first:
+      4: 400080
+    second: Pole_L_end
+  - first:
+      4: 400082
+    second: Pole_R_end
+  - first:
+      4: 400084
+    second: PoleBack_L_end
+  - first:
+      4: 400086
+    second: PoleBack_R_end
+  - first:
+      4: 400088
+    second: Tail_end
+  - first:
+      43: 4300000
+    second: Goat
+  - first:
+      74: 7400000
+    second: Goat_AngryRun
+  - first:
+      74: 7400002
+    second: Goat_EatLoop
+  - first:
+      74: 7400004
+    second: Goat_Idle
+  - first:
+      74: 7400006
+    second: Goat_Sit
+  - first:
+      74: 7400008
+    second: Goat_StartEat
+  - first:
+      74: 7400010
+    second: Goat_Walk
+  - first:
+      74: 7400012
+    second: Goat_IdleSit
+  - first:
+      74: 7400014
+    second: Goat_Run
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Goat
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Goat_AngryRun
+      takeName: Goat_AngryRun
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goat
+        weight: 1
+      - path: GoatArmature
+        weight: 1
+      - path: GoatArmature/BackFootIK_L
+        weight: 1
+      - path: GoatArmature/BackFootIK_R
+        weight: 1
+      - path: GoatArmature/FrontFootIK_L
+        weight: 1
+      - path: GoatArmature/FrontFootIK_R
+        weight: 1
+      - path: GoatArmature/Pole_L
+        weight: 1
+      - path: GoatArmature/Pole_R
+        weight: 1
+      - path: GoatArmature/PoleBack_L
+        weight: 1
+      - path: GoatArmature/PoleBack_R
+        weight: 1
+      - path: GoatArmature/Root
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L/BackLowerLeg_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L/BackLowerLeg_L/BackFoot_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R/BackLowerLeg_R
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R/BackLowerLeg_R/BackFoot_R
+        weight: 1
+      - path: GoatArmature/Root/Spine
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L/FrontLowerLeg_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L/FrontLowerLeg_L/FrontFoot_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R/FrontLowerLeg_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R/FrontLowerLeg_R/FrontFoot_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head/Ear_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head/Ear_R
+        weight: 1
+      - path: GoatArmature/Root/Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Goat_EatLoop
+      takeName: Goat_EatLoop
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goat
+        weight: 1
+      - path: GoatArmature
+        weight: 1
+      - path: GoatArmature/BackFootIK_L
+        weight: 1
+      - path: GoatArmature/BackFootIK_R
+        weight: 1
+      - path: GoatArmature/FrontFootIK_L
+        weight: 1
+      - path: GoatArmature/FrontFootIK_R
+        weight: 1
+      - path: GoatArmature/Pole_L
+        weight: 1
+      - path: GoatArmature/Pole_R
+        weight: 1
+      - path: GoatArmature/PoleBack_L
+        weight: 1
+      - path: GoatArmature/PoleBack_R
+        weight: 1
+      - path: GoatArmature/Root
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L/BackLowerLeg_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L/BackLowerLeg_L/BackFoot_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R/BackLowerLeg_R
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R/BackLowerLeg_R/BackFoot_R
+        weight: 1
+      - path: GoatArmature/Root/Spine
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L/FrontLowerLeg_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L/FrontLowerLeg_L/FrontFoot_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R/FrontLowerLeg_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R/FrontLowerLeg_R/FrontFoot_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head/Ear_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head/Ear_R
+        weight: 1
+      - path: GoatArmature/Root/Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Goat_Idle
+      takeName: Goat_Idle
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goat
+        weight: 1
+      - path: GoatArmature
+        weight: 1
+      - path: GoatArmature/BackFootIK_L
+        weight: 1
+      - path: GoatArmature/BackFootIK_R
+        weight: 1
+      - path: GoatArmature/FrontFootIK_L
+        weight: 1
+      - path: GoatArmature/FrontFootIK_R
+        weight: 1
+      - path: GoatArmature/Pole_L
+        weight: 1
+      - path: GoatArmature/Pole_R
+        weight: 1
+      - path: GoatArmature/PoleBack_L
+        weight: 1
+      - path: GoatArmature/PoleBack_R
+        weight: 1
+      - path: GoatArmature/Root
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L/BackLowerLeg_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L/BackLowerLeg_L/BackFoot_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R/BackLowerLeg_R
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R/BackLowerLeg_R/BackFoot_R
+        weight: 1
+      - path: GoatArmature/Root/Spine
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L/FrontLowerLeg_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L/FrontLowerLeg_L/FrontFoot_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R/FrontLowerLeg_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R/FrontLowerLeg_R/FrontFoot_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head/Ear_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head/Ear_R
+        weight: 1
+      - path: GoatArmature/Root/Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Goat_Sit
+      takeName: Goat_Sit
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goat
+        weight: 1
+      - path: GoatArmature
+        weight: 1
+      - path: GoatArmature/BackFootIK_L
+        weight: 1
+      - path: GoatArmature/BackFootIK_R
+        weight: 1
+      - path: GoatArmature/FrontFootIK_L
+        weight: 1
+      - path: GoatArmature/FrontFootIK_R
+        weight: 1
+      - path: GoatArmature/Pole_L
+        weight: 1
+      - path: GoatArmature/Pole_R
+        weight: 1
+      - path: GoatArmature/PoleBack_L
+        weight: 1
+      - path: GoatArmature/PoleBack_R
+        weight: 1
+      - path: GoatArmature/Root
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L/BackLowerLeg_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L/BackLowerLeg_L/BackFoot_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R/BackLowerLeg_R
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R/BackLowerLeg_R/BackFoot_R
+        weight: 1
+      - path: GoatArmature/Root/Spine
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L/FrontLowerLeg_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L/FrontLowerLeg_L/FrontFoot_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R/FrontLowerLeg_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R/FrontLowerLeg_R/FrontFoot_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head/Ear_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head/Ear_R
+        weight: 1
+      - path: GoatArmature/Root/Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Goat_StartEat
+      takeName: Goat_StartEat
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goat
+        weight: 1
+      - path: GoatArmature
+        weight: 1
+      - path: GoatArmature/BackFootIK_L
+        weight: 1
+      - path: GoatArmature/BackFootIK_R
+        weight: 1
+      - path: GoatArmature/FrontFootIK_L
+        weight: 1
+      - path: GoatArmature/FrontFootIK_R
+        weight: 1
+      - path: GoatArmature/Pole_L
+        weight: 1
+      - path: GoatArmature/Pole_R
+        weight: 1
+      - path: GoatArmature/PoleBack_L
+        weight: 1
+      - path: GoatArmature/PoleBack_R
+        weight: 1
+      - path: GoatArmature/Root
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L/BackLowerLeg_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L/BackLowerLeg_L/BackFoot_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R/BackLowerLeg_R
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R/BackLowerLeg_R/BackFoot_R
+        weight: 1
+      - path: GoatArmature/Root/Spine
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L/FrontLowerLeg_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L/FrontLowerLeg_L/FrontFoot_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R/FrontLowerLeg_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R/FrontLowerLeg_R/FrontFoot_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head/Ear_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head/Ear_R
+        weight: 1
+      - path: GoatArmature/Root/Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Goat_Walk
+      takeName: Goat_Walk
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goat
+        weight: 1
+      - path: GoatArmature
+        weight: 1
+      - path: GoatArmature/BackFootIK_L
+        weight: 1
+      - path: GoatArmature/BackFootIK_R
+        weight: 1
+      - path: GoatArmature/FrontFootIK_L
+        weight: 1
+      - path: GoatArmature/FrontFootIK_R
+        weight: 1
+      - path: GoatArmature/Pole_L
+        weight: 1
+      - path: GoatArmature/Pole_R
+        weight: 1
+      - path: GoatArmature/PoleBack_L
+        weight: 1
+      - path: GoatArmature/PoleBack_R
+        weight: 1
+      - path: GoatArmature/Root
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L/BackLowerLeg_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L/BackLowerLeg_L/BackFoot_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R/BackLowerLeg_R
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R/BackLowerLeg_R/BackFoot_R
+        weight: 1
+      - path: GoatArmature/Root/Spine
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L/FrontLowerLeg_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L/FrontLowerLeg_L/FrontFoot_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R/FrontLowerLeg_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R/FrontLowerLeg_R/FrontFoot_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head/Ear_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head/Ear_R
+        weight: 1
+      - path: GoatArmature/Root/Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Goat_IdleSit
+      takeName: Goat_IdleSit
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goat
+        weight: 1
+      - path: GoatArmature
+        weight: 1
+      - path: GoatArmature/BackFootIK_L
+        weight: 1
+      - path: GoatArmature/BackFootIK_R
+        weight: 1
+      - path: GoatArmature/FrontFootIK_L
+        weight: 1
+      - path: GoatArmature/FrontFootIK_R
+        weight: 1
+      - path: GoatArmature/Pole_L
+        weight: 1
+      - path: GoatArmature/Pole_R
+        weight: 1
+      - path: GoatArmature/PoleBack_L
+        weight: 1
+      - path: GoatArmature/PoleBack_R
+        weight: 1
+      - path: GoatArmature/Root
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L/BackLowerLeg_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L/BackLowerLeg_L/BackFoot_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R/BackLowerLeg_R
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R/BackLowerLeg_R/BackFoot_R
+        weight: 1
+      - path: GoatArmature/Root/Spine
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L/FrontLowerLeg_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L/FrontLowerLeg_L/FrontFoot_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R/FrontLowerLeg_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R/FrontLowerLeg_R/FrontFoot_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head/Ear_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head/Ear_R
+        weight: 1
+      - path: GoatArmature/Root/Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Goat_Run
+      takeName: Goat_Run
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goat
+        weight: 1
+      - path: GoatArmature
+        weight: 1
+      - path: GoatArmature/BackFootIK_L
+        weight: 1
+      - path: GoatArmature/BackFootIK_R
+        weight: 1
+      - path: GoatArmature/FrontFootIK_L
+        weight: 1
+      - path: GoatArmature/FrontFootIK_R
+        weight: 1
+      - path: GoatArmature/Pole_L
+        weight: 1
+      - path: GoatArmature/Pole_R
+        weight: 1
+      - path: GoatArmature/PoleBack_L
+        weight: 1
+      - path: GoatArmature/PoleBack_R
+        weight: 1
+      - path: GoatArmature/Root
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L/BackLowerLeg_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_L/BackLowerLeg_L/BackFoot_L
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R/BackLowerLeg_R
+        weight: 1
+      - path: GoatArmature/Root/BackUpperLeg_R/BackLowerLeg_R/BackFoot_R
+        weight: 1
+      - path: GoatArmature/Root/Spine
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L/FrontLowerLeg_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_L/FrontLowerLeg_L/FrontFoot_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R/FrontLowerLeg_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/FrontUpperLeg_R/FrontLowerLeg_R/FrontFoot_R
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head/Ear_L
+        weight: 1
+      - path: GoatArmature/Root/Spine/Torso/Head/Ear_R
+        weight: 1
+      - path: GoatArmature/Root/Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

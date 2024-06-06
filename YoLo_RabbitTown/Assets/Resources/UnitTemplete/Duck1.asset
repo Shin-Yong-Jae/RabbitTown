@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccad2fd5b4e9c421ba62c67602b90792, type: 3}
+  m_Name: Duck1
+  m_EditorClassIdentifier: 
+  UnitPrefab: {fileID: 1000012251541898, guid: a60d9484d9c7d104191d40d8f7cf1dbe, type: 3}
+  Projecttile: {fileID: 0}
+  Level:
+  - Name: Duck1
+    meadowUnit: 3
+    Attack: 10
+    AttackSpeed: 2
+    MovingSpeed: 5
+    Hp: 100
+    Level: 1
+    range: 3
+    DropCoin: 10
+    Spoilnumber: 1
+    SpoilAmount: 2
+    CanCapturePercent: 50
+    DetectionRange: 12
+    PlayerRange: 7
+    PlayerRangeWellOff: 15
+  - Name: Duck1
+    meadowUnit: 3
+    Attack: 12
+    AttackSpeed: 2
+    MovingSpeed: 5
+    Hp: 120
+    Level: 2
+    range: 3
+    DropCoin: 10
+    Spoilnumber: 1
+    SpoilAmount: 2
+    CanCapturePercent: 50
+    DetectionRange: 12
+    PlayerRange: 7
+    PlayerRangeWellOff: 15
+  - Name: Duck1
+    meadowUnit: 3
+    Attack: 14
+    AttackSpeed: 2
+    MovingSpeed: 5
+    Hp: 140
+    Level: 3
+    range: 3
+    DropCoin: 10
+    Spoilnumber: 1
+    SpoilAmount: 2
+    CanCapturePercent: 50
+    DetectionRange: 12
+    PlayerRange: 7
+    PlayerRangeWellOff: 15
+  - Name: Duck1
+    meadowUnit: 3
+    Attack: 16
+    AttackSpeed: 2
+    MovingSpeed: 5
+    Hp: 160
+    Level: 4
+    range: 3
+    DropCoin: 10
+    Spoilnumber: 1
+    SpoilAmount: 2
+    CanCapturePercent: 50
+    DetectionRange: 12
+    PlayerRange: 7
+    PlayerRangeWellOff: 15
+  - Name: Duck1
+    meadowUnit: 3
+    Attack: 18
+    AttackSpeed: 2
+    MovingSpeed: 5
+    Hp: 180
+    Level: 5
+    range: 3
+    DropCoin: 10
+    Spoilnumber: 1
+    SpoilAmount: 2
+    CanCapturePercent: 50
+    DetectionRange: 12
+    PlayerRange: 7
+    PlayerRangeWellOff: 15
